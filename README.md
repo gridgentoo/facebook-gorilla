@@ -1,3 +1,9 @@
+## Gorilla: быстрая, масштабируемая in-memory time-series база данных
+https://habr.com/ru/company/okmeter/blog/327038/
+
+## Оригинальный репозиторий facebookarchive 
+https://github.com/facebookarchive/beringei  
+
 ** THIS REPO HAS BEEN ARCHIVED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
 
 # Beringei [![CircleCI](https://circleci.com/gh/facebookincubator/beringei/tree/master.svg?style=svg)](https://circleci.com/gh/facebookincubator/beringei/tree/master)
