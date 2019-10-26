@@ -1,7 +1,7 @@
-# Gorilla: быстрая, масштабируемая in-memory time-series база данных
+## Gorilla: быстрая, масштабируемая in-memory time-series база данных
 https://habr.com/ru/company/okmeter/blog/327038/
 
-# Оригинальный репозиторий facebookarchive 
+## Оригинальный репозиторий facebookarchive 
 https://github.com/facebookarchive/beringei  
 
 ** THIS REPO HAS BEEN ARCHIVED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
